@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+/* Phone CSS Adjustment */
+@media only screen 
+  {
+	  .header {
+		padding: 100px 0;
+	background-image: url('https://news.bitcoin.com/wp-content/uploads/2020/07/live-streaming-service-twitch-gives-subscribers-10-discount-if-they-pay-with-cryptocurrency.jpg');
+	background-size: cover;
+background-position: center center;
+	  }
+}
+
+
+
+
+
+
+/* Tablet CSS Adjustment */
+@media only screen 
+  and (min-width: 768px) {
+	
+
+	body h1 {
+		font-size: 50px;
+	}
+
+}
+
+
+
+
+/* Laptop and bigger Adjustment */
+
+@media screen 
+  and (min-width: 1200px) { 
+	
+.header {
+padding: 300px 0;
+background-image: url('https://news.bitcoin.com/wp-content/uploads/2020/07/live-streaming-service-twitch-gives-subscribers-10-discount-if-they-pay-with-cryptocurrency.jpg');
+background-size: cover;
+background-position: center center;
+}
+
+
+
+	body h1 {
+		font-size: 70px;
+	}
+
+}

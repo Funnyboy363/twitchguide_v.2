@@ -1,0 +1,1 @@
+This template has been put together with css media queiries and bootstrap. Almost everything that is put into CSS should most likely have an "!important" in the selector to make it work. Be careful.
